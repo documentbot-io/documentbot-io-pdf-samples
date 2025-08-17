@@ -151,6 +151,8 @@ The analysis examined actual PDF bytes using PyMuPDF to understand:
 - Potential font licensing issues with proprietary embedded fonts
 - More prone to text overflow with significant length changes
 
+**📖 [Read the complete deep dive analysis of PDFSimpli's approach →](analysis/PDFSimpli_Deep_Dive.md)**
+
 ---
 
 ### 🟡 PDFGuru: Native Text Substitution with Minimal Modification
@@ -179,6 +181,8 @@ The analysis examined actual PDF bytes using PyMuPDF to understand:
 - Highly variable quality depending on source document
 - Most severe file size increases observed
 - Cannot handle purely scanned/image-based documents
+
+**📖 [Read the complete deep dive analysis of PDFGuru's approach →](analysis/PDFGuru_Deep_Dive.md)**
 
 ## Comparative Technical Analysis
 
