@@ -119,6 +119,8 @@ The analysis examined actual PDF bytes using PyMuPDF to understand:
 - Eliminates all interactivity (forms, buttons, links)
 - Significant file size increases for simple documents
 
+**📖 [Read the complete deep dive analysis of Google's approach →](analysis/Google_PDF_Translation_Deep_Dive.md)**
+
 ---
 
 ### 🟢 PDFSimpli: Intelligent Text Replacement with Preservation
