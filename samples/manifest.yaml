@@ -1,0 +1,183 @@
+# PDF Sample Manifest
+# This file contains metadata for all PDF samples in the repository
+
+samples:
+  - id: hello-letter
+    filename: hello-letter.simple.en.pdf
+    category: simple
+    source: generated
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, he, fr, pt, ru, ja]
+    characteristics: [paragraphs, bullets, bold, italic]
+    notes: Simple one-page letter for baseline testing
+
+  - id: scanned-menu
+    filename: scanned-menu.ocr.en.pdf
+    category: ocr
+    source: scan
+    license: fair-use
+    languages_to_test: [es, vi, zh-Hans, fr]
+    characteristics: [ocr-required, mixed-fonts, curved-text, background-images]
+    notes: Restaurant menu scan to test OCR capabilities
+
+  - id: irs-1040
+    filename: irs-1040.tax.en.pdf
+    category: tax
+    source_url: https://www.irs.gov/pub/irs-pdf/f1040.pdf
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, he, fr, pt, ru, ja]
+    characteristics: [forms, checkboxes, tables, acroform]
+    notes: Current year IRS Form 1040 - complex layout with fillable fields
+
+  - id: irs-w9
+    filename: irs-w9.forms.en.pdf
+    category: forms
+    source_url: https://www.irs.gov/pub/irs-pdf/fw9.pdf
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, fr]
+    characteristics: [forms, acroform, boxes, lines]
+    notes: IRS W-9 form - AcroForm behavior test
+
+  - id: ds-11
+    filename: ds-11.gov.en.pdf
+    category: gov
+    source_url: https://eforms.state.gov/Forms/ds11.pdf
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, fr]
+    characteristics: [forms, instructions, barcodes]
+    notes: US Passport Application - dense instructions with form fields
+
+  - id: bitcoin-whitepaper
+    filename: bitcoin.academic.en.pdf
+    category: academic
+    source_url: https://bitcoin.org/bitcoin.pdf
+    license: mit
+    languages_to_test: [es, vi, zh-Hans, ar, he, fr, pt, ru, ja]
+    characteristics: [two-column, references, formulas]
+    notes: Bitcoin whitepaper - academic paper layout
+
+  - id: attention-paper
+    filename: attention-is-all-you-need.academic.en.pdf
+    category: academic
+    source_url: https://arxiv.org/pdf/1706.03762.pdf
+    license: arxiv
+    languages_to_test: [zh-Hans, ja, fr]
+    characteristics: [equations, tables, algorithm-blocks, math]
+    notes: Transformer paper - complex equations and tables
+
+  - id: awesomecv-sample
+    filename: awesomecv.resume.en.pdf
+    category: resume
+    source: generated
+    license: mit
+    languages_to_test: [es, vi, zh-Hans, ar, fr]
+    characteristics: [two-column, icons, tight-spacing]
+    notes: Resume template sample - complex layout
+
+  - id: sample-invoice
+    filename: sample-invoice.business.en.pdf
+    category: business
+    source: generated
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, fr]
+    characteristics: [tables, numbers, currency, stamps]
+    notes: Business invoice with tabular data
+
+  - id: bank-statement
+    filename: sample-bank-statement.finance.en.pdf
+    category: finance
+    source: synthetic
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar]
+    characteristics: [tables, fine-print, headers, footers]
+    notes: Synthetic bank statement - no real data
+
+  - id: boarding-pass
+    filename: sample-boarding-pass.travel.en.pdf
+    category: travel
+    source: generated
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar, ja]
+    characteristics: [barcodes, qr-codes, mixed-orientation]
+    notes: Sample airline boarding pass
+
+  - id: shipping-label
+    filename: sample-shipping-label.logistics.en.pdf
+    category: logistics
+    source: generated
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans]
+    characteristics: [large-barcodes, rotated-text, sparse-layout]
+    notes: Shipping label template
+
+  - id: fda-medication-guide
+    filename: fda-medication-guide.medical.en.pdf
+    category: medical
+    source_url: https://www.fda.gov/media/example-medication-guide.pdf
+    license: public-domain
+    languages_to_test: [es, vi, zh-Hans, ar]
+    characteristics: [dense-text, bullets, tables, boxed-warnings]
+    notes: FDA medication guide sample
+
+  - id: annual-report
+    filename: annual-report-excerpt.report.en.pdf
+    category: report
+    source: sec-edgar
+    license: public-domain
+    languages_to_test: [es, zh-Hans, ja]
+    characteristics: [charts, images, footers, multi-column]
+    notes: Corporate annual report excerpt from SEC
+
+  - id: un-brochure
+    filename: un-brochure.multilingual.en.pdf
+    category: multilingual
+    source_url: https://www.un.org/sample-brochure.pdf
+    license: cc-by
+    languages_to_test: [es, ar, zh-Hans, fr, ru]
+    characteristics: [mixed-languages, accents, rtl-snippets]
+    notes: UN multilingual brochure
+
+  - id: pdfa-sample
+    filename: sample.pdfa.en.pdf
+    category: pdfa
+    source: iso-sample
+    license: public-domain
+    languages_to_test: [es, fr]
+    characteristics: [pdfa-conformance, embedded-fonts]
+    notes: PDF/A conformance test file
+
+  - id: xfa-edgecase
+    filename: xfa-edgecase.forms-complex.en.pdf
+    category: forms-complex
+    source: adobe-sample
+    license: adobe-sample
+    languages_to_test: [es, zh-Hans]
+    characteristics: [xfa-forms, complex-scripting]
+    notes: Complex XFA form edge cases
+
+  - id: tourism-brochure
+    filename: tourism-brochure.graphics.en.pdf
+    category: graphics
+    source: scan
+    license: fair-use
+    languages_to_test: [es, vi, zh-Hans, ar]
+    characteristics: [text-over-images, transparency, vectors]
+    notes: Tourism brochure with complex graphics
+
+  - id: arabic-brochure
+    filename: arabic-brochure.rtl.ar.pdf
+    category: rtl
+    source: government
+    license: public-domain
+    languages_to_test: [en, fr]
+    characteristics: [rtl-flow, arabic-numerals, mirrored-punctuation]
+    notes: Native Arabic document for RTL testing
+
+  - id: japanese-vertical
+    filename: japanese-vertical.cjk.ja.pdf
+    category: cjk
+    source: cultural-pamphlet
+    license: cc-by
+    languages_to_test: [en, zh-Hans]
+    characteristics: [vertical-text, cjk-linebreaking]
+    notes: Japanese magazine page with vertical text layout

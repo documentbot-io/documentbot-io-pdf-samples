@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+*.log
+.cache/
+temp/
+tmp/
+
+# Large files that should be fetched
+samples/originals/fetch-required/
+
+# Sensitive data
+*.key
+*.pem
+credentials.json
+.env
+
+# PDF working files
+*.pdf.bak
+*.pdf.tmp
