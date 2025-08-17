@@ -8,19 +8,30 @@ This repository contains representative PDF samples and their translated outputs
 - PDF/A and graphics overlays
 
 ## Structure
-- `samples/originals/` — Source PDFs by category (or `scripts/fetch.py` + `manifest.yaml` if we can't redistribute).
-- `translated/` — Outputs from providers under a strict naming convention.
-- `pseudolocale/` — Pseudolocale "translations" generated locally to stress width/RTL without calling an API.
-- `scripts/` — `fetch.py` to download originals; `make_pseudolocale.py` to overlay pseudo text via PyMuPDF.
-- `docs/acceptance-checklist.md` — What to check for each category.
+- `originals/` — Source PDFs in a single folder with format: `<category>.<src-lang>.<filename>.pdf`
+- `translated/` — Outputs from providers under a strict naming convention
+- `pseudolocale/` — Pseudolocale "translations" generated locally to stress width/RTL without calling an API
+- `scripts/` — `fetch.py` to download originals; `make_pseudolocale.py` to overlay pseudo text via PyMuPDF
+- `docs/acceptance-checklist.md` — What to check for each category
+- `samples/manifest.yaml` — Metadata for all PDF samples
 
 ## Naming Convention
-`<filename>.<category>.<src-lng>.<dst-lng>.<provider>.pdf`
+
+### Original Files
+`<category>.<src-lang>.<filename>.pdf`
 
 Examples:
-- `irs-1040.tax.en.es.google.pdf`
-- `bitcoin.academic.en.zh-Hans.pdfguru.pdf`
-- `hello-letter.simple.en.ps-rtl.psgen.pdf`
+- `tax.en.irs-1040.pdf`
+- `academic.en.bitcoin-whitepaper.pdf`
+- `simple.en.hello-letter.pdf`
+
+### Translated Files
+`<category>.<src-lang>.<dst-lang>.<provider>.<filename>.pdf`
+
+Examples:
+- `tax.en.es.google.irs-1040.pdf`
+- `academic.en.zh-Hans.pdfguru.bitcoin-whitepaper.pdf`
+- `simple.en.ps-rtl.psgen.hello-letter.pdf`
 
 ### Categories
 - `simple` - Basic text documents
@@ -67,9 +78,10 @@ Language codes use BCP-47 where helpful:
 Use Noto families for maximal glyph coverage. Embed fonts to keep outputs portable.
 
 ## Contributing
-1. Add a new original under the correct category, or add its entry to `manifest.yaml` and run `scripts/fetch.py`.
-2. Commit provider outputs to `translated/` using the naming scheme.
-3. For pseudo, run `scripts/make_pseudolocale.py` and commit to `pseudolocale/`.
+1. Add new originals to `originals/` folder using format: `<category>.<src-lang>.<filename>.pdf`
+2. Update `samples/manifest.yaml` with metadata for new samples
+3. Commit provider outputs to `translated/` using format: `<category>.<src-lang>.<dst-lang>.<provider>.<filename>.pdf`
+4. For pseudo, run `scripts/make_pseudolocale.py` and commit to `pseudolocale/`
 
 ## Licensing
 - Prefer public domain / CC-licensed sources.

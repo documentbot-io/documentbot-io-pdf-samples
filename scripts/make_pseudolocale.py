@@ -18,6 +18,10 @@ def main():
     print("- ps-rtl: Simulate RTL with reversed text and bidi marks")
     print("- ps-fullwidth: Convert to fullwidth Unicode forms")
     
+    print("\nExpected file structure:")
+    print("- Input: originals/<category>.<src-lang>.<filename>.pdf")
+    print("- Output: pseudolocale/<category>.<src-lang>.<pseudo-locale>.psgen.<filename>.pdf")
+    
     return 0
 
 if __name__ == "__main__":

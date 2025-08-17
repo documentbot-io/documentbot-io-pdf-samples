@@ -3,7 +3,7 @@
 
 samples:
   - id: hello-letter
-    filename: hello-letter.simple.en.pdf
+    filename: simple.en.hello-letter.pdf
     category: simple
     source: generated
     license: public-domain
@@ -12,7 +12,7 @@ samples:
     notes: Simple one-page letter for baseline testing
 
   - id: scanned-menu
-    filename: scanned-menu.ocr.en.pdf
+    filename: ocr.en.scanned-menu.pdf
     category: ocr
     source: scan
     license: fair-use
@@ -21,7 +21,7 @@ samples:
     notes: Restaurant menu scan to test OCR capabilities
 
   - id: irs-1040
-    filename: irs-1040.tax.en.pdf
+    filename: tax.en.irs-1040.pdf
     category: tax
     source_url: https://www.irs.gov/pub/irs-pdf/f1040.pdf
     license: public-domain
@@ -30,7 +30,7 @@ samples:
     notes: Current year IRS Form 1040 - complex layout with fillable fields
 
   - id: irs-w9
-    filename: irs-w9.forms.en.pdf
+    filename: forms.en.irs-w9.pdf
     category: forms
     source_url: https://www.irs.gov/pub/irs-pdf/fw9.pdf
     license: public-domain
@@ -39,7 +39,7 @@ samples:
     notes: IRS W-9 form - AcroForm behavior test
 
   - id: ds-11
-    filename: ds-11.gov.en.pdf
+    filename: gov.en.ds-11.pdf
     category: gov
     source_url: https://eforms.state.gov/Forms/ds11.pdf
     license: public-domain
@@ -48,7 +48,7 @@ samples:
     notes: US Passport Application - dense instructions with form fields
 
   - id: bitcoin-whitepaper
-    filename: bitcoin.academic.en.pdf
+    filename: academic.en.bitcoin-whitepaper.pdf
     category: academic
     source_url: https://bitcoin.org/bitcoin.pdf
     license: mit
@@ -57,7 +57,7 @@ samples:
     notes: Bitcoin whitepaper - academic paper layout
 
   - id: attention-paper
-    filename: attention-is-all-you-need.academic.en.pdf
+    filename: academic.en.attention-paper.pdf
     category: academic
     source_url: https://arxiv.org/pdf/1706.03762.pdf
     license: arxiv
@@ -66,7 +66,7 @@ samples:
     notes: Transformer paper - complex equations and tables
 
   - id: awesomecv-sample
-    filename: awesomecv.resume.en.pdf
+    filename: resume.en.awesomecv-sample.pdf
     category: resume
     source: generated
     license: mit
@@ -75,7 +75,7 @@ samples:
     notes: Resume template sample - complex layout
 
   - id: sample-invoice
-    filename: sample-invoice.business.en.pdf
+    filename: business.en.sample-invoice.pdf
     category: business
     source: generated
     license: public-domain
@@ -84,7 +84,7 @@ samples:
     notes: Business invoice with tabular data
 
   - id: bank-statement
-    filename: sample-bank-statement.finance.en.pdf
+    filename: finance.en.bank-statement.pdf
     category: finance
     source: synthetic
     license: public-domain
@@ -93,7 +93,7 @@ samples:
     notes: Synthetic bank statement - no real data
 
   - id: boarding-pass
-    filename: sample-boarding-pass.travel.en.pdf
+    filename: travel.en.boarding-pass.pdf
     category: travel
     source: generated
     license: public-domain
@@ -102,7 +102,7 @@ samples:
     notes: Sample airline boarding pass
 
   - id: shipping-label
-    filename: sample-shipping-label.logistics.en.pdf
+    filename: logistics.en.shipping-label.pdf
     category: logistics
     source: generated
     license: public-domain
@@ -111,7 +111,7 @@ samples:
     notes: Shipping label template
 
   - id: fda-medication-guide
-    filename: fda-medication-guide.medical.en.pdf
+    filename: medical.en.fda-medication-guide.pdf
     category: medical
     source_url: https://www.fda.gov/media/example-medication-guide.pdf
     license: public-domain
@@ -120,7 +120,7 @@ samples:
     notes: FDA medication guide sample
 
   - id: annual-report
-    filename: annual-report-excerpt.report.en.pdf
+    filename: report.en.annual-report.pdf
     category: report
     source: sec-edgar
     license: public-domain
@@ -129,7 +129,7 @@ samples:
     notes: Corporate annual report excerpt from SEC
 
   - id: un-brochure
-    filename: un-brochure.multilingual.en.pdf
+    filename: multilingual.en.un-brochure.pdf
     category: multilingual
     source_url: https://www.un.org/sample-brochure.pdf
     license: cc-by
@@ -138,7 +138,7 @@ samples:
     notes: UN multilingual brochure
 
   - id: pdfa-sample
-    filename: sample.pdfa.en.pdf
+    filename: pdfa.en.pdfa-sample.pdf
     category: pdfa
     source: iso-sample
     license: public-domain
@@ -147,7 +147,7 @@ samples:
     notes: PDF/A conformance test file
 
   - id: xfa-edgecase
-    filename: xfa-edgecase.forms-complex.en.pdf
+    filename: forms-complex.en.xfa-edgecase.pdf
     category: forms-complex
     source: adobe-sample
     license: adobe-sample
@@ -156,7 +156,7 @@ samples:
     notes: Complex XFA form edge cases
 
   - id: tourism-brochure
-    filename: tourism-brochure.graphics.en.pdf
+    filename: graphics.en.tourism-brochure.pdf
     category: graphics
     source: scan
     license: fair-use
@@ -165,7 +165,7 @@ samples:
     notes: Tourism brochure with complex graphics
 
   - id: arabic-brochure
-    filename: arabic-brochure.rtl.ar.pdf
+    filename: rtl.ar.arabic-brochure.pdf
     category: rtl
     source: government
     license: public-domain
@@ -174,7 +174,7 @@ samples:
     notes: Native Arabic document for RTL testing
 
   - id: japanese-vertical
-    filename: japanese-vertical.cjk.ja.pdf
+    filename: cjk.ja.japanese-vertical.pdf
     category: cjk
     source: cultural-pamphlet
     license: cc-by

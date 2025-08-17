@@ -16,7 +16,7 @@ from urllib.parse import urlparse
 # Configuration
 SAMPLES_DIR = Path(__file__).parent.parent / "samples"
 MANIFEST_FILE = SAMPLES_DIR / "manifest.yaml"
-ORIGINALS_DIR = SAMPLES_DIR / "originals"
+ORIGINALS_DIR = Path(__file__).parent.parent / "originals"
 USER_AGENT = "Mozilla/5.0 (PDF Sample Fetcher for Testing)"
 CHUNK_SIZE = 8192
 
@@ -83,10 +83,9 @@ class PDFFetcher:
     
     def fetch_sample(self, sample_id: str, sample_info: Dict) -> bool:
         """Fetch a single PDF sample."""
-        # Determine the destination path
-        category = sample_info.get('category', 'uncategorized')
+        # Determine the destination path - now flat structure
         filename = sample_info.get('filename', f"{sample_id}.pdf")
-        dest_path = ORIGINALS_DIR / category / filename
+        dest_path = ORIGINALS_DIR / filename
         
         # Check if file already exists
         if dest_path.exists():
@@ -159,7 +158,7 @@ class PDFFetcher:
         
         category = sample.get('category', 'uncategorized')
         filename = sample.get('filename', f"{sample_id}.pdf")
-        dest_path = ORIGINALS_DIR / category / filename
+        dest_path = ORIGINALS_DIR / filename
         
         if dest_path.exists():
             print(f"File already exists: {dest_path}")
