@@ -1,0 +1,878 @@
+{
+  "original": {
+    "filename": "academic.en.attention.pdf",
+    "metadata": {
+      "producer": "pdfTeX-1.40.25",
+      "creator": "LaTeX with hyperref",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creationDate": "D:20240410211143Z",
+      "modDate": "D:20240410211143Z"
+    },
+    "document_info": {
+      "page_count": 15,
+      "is_encrypted": false,
+      "is_form_pdf": false,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 2215244
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 15,
+        "drawing_commands": 3,
+        "has_images": false,
+        "text_coverage": 31.549690911268126,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 13,
+        "drawing_commands": 0,
+        "has_images": false,
+        "text_coverage": 41.161580358539915,
+        "is_scanned": false
+      },
+      {
+        "page_number": 2,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 8,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 17.649319351678756,
+        "is_scanned": false
+      },
+      {
+        "page_number": 3,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 14,
+        "drawing_commands": 8,
+        "has_images": true,
+        "text_coverage": 27.15572486091709,
+        "is_scanned": false
+      },
+      {
+        "page_number": 4,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 18,
+        "drawing_commands": 1,
+        "has_images": false,
+        "text_coverage": 33.636227855369846,
+        "is_scanned": false
+      },
+      {
+        "page_number": 5,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 15,
+        "drawing_commands": 3,
+        "has_images": false,
+        "text_coverage": 37.70762159701268,
+        "is_scanned": false
+      },
+      {
+        "page_number": 6,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 16,
+        "drawing_commands": 0,
+        "has_images": false,
+        "text_coverage": 33.928450246836675,
+        "is_scanned": false
+      },
+      {
+        "page_number": 7,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 23,
+        "drawing_commands": 8,
+        "has_images": false,
+        "text_coverage": 36.601941891790965,
+        "is_scanned": false
+      },
+      {
+        "page_number": 8,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 18,
+        "drawing_commands": 53,
+        "has_images": false,
+        "text_coverage": 40.634139718516884,
+        "is_scanned": false
+      },
+      {
+        "page_number": 9,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 17,
+        "drawing_commands": 33,
+        "has_images": false,
+        "text_coverage": 36.93450873405314,
+        "is_scanned": false
+      },
+      {
+        "page_number": 10,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 21,
+        "drawing_commands": 0,
+        "has_images": false,
+        "text_coverage": 37.78054892126683,
+        "is_scanned": false
+      },
+      {
+        "page_number": 11,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 17,
+        "drawing_commands": 0,
+        "has_images": false,
+        "text_coverage": 36.34382301370247,
+        "is_scanned": false
+      },
+      {
+        "page_number": 12,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 69,
+        "drawing_commands": 624,
+        "has_images": false,
+        "text_coverage": 6.431803457520406,
+        "is_scanned": false
+      },
+      {
+        "page_number": 13,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 110,
+        "drawing_commands": 1030,
+        "has_images": false,
+        "text_coverage": 7.208705214960428,
+        "is_scanned": false
+      },
+      {
+        "page_number": 14,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 110,
+        "drawing_commands": 947,
+        "has_images": false,
+        "text_coverage": 7.180867581885936,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {
+      "HPHIWG+CMSY7": {
+        "name": "HPHIWG+CMSY7",
+        "type": 106,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          3,
+          4,
+          6
+        ],
+        "is_embedded": true
+      },
+      "XEXHSJ+SFTT1000": {
+        "name": "XEXHSJ+SFTT1000",
+        "type": 107,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          9
+        ],
+        "is_embedded": true
+      },
+      "EHCAGL+CMSY6": {
+        "name": "EHCAGL+CMSY6",
+        "type": 108,
+        "encoding": "Type1",
+        "pages_used": [
+          0
+        ],
+        "is_embedded": true
+      },
+      "AECCXO+NimbusRomNo9L-Regu": {
+        "name": "AECCXO+NimbusRomNo9L-Regu",
+        "type": 104,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "is_embedded": true
+      },
+      "RCUMTF+NimbusRomNo9L-Medi": {
+        "name": "RCUMTF+NimbusRomNo9L-Medi",
+        "type": 105,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ],
+        "is_embedded": true
+      },
+      "Times-Roman": {
+        "name": "Times-Roman",
+        "type": 5957,
+        "encoding": "Type1",
+        "pages_used": [
+          0
+        ],
+        "is_embedded": false
+      },
+      "CYUPTR+CMBX10": {
+        "name": "CYUPTR+CMBX10",
+        "type": 143,
+        "encoding": "Type1",
+        "pages_used": [
+          1,
+          7
+        ],
+        "is_embedded": true
+      },
+      "JQKXPN+CMR7": {
+        "name": "JQKXPN+CMR7",
+        "type": 141,
+        "encoding": "Type1",
+        "pages_used": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "is_embedded": true
+      },
+      "FUIULY+CMR10": {
+        "name": "FUIULY+CMR10",
+        "type": 142,
+        "encoding": "Type1",
+        "pages_used": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "is_embedded": true
+      },
+      "FRDAXA+CMMI7": {
+        "name": "FRDAXA+CMMI7",
+        "type": 140,
+        "encoding": "Type1",
+        "pages_used": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "is_embedded": true
+      },
+      "LICAEO+CMMI10": {
+        "name": "LICAEO+CMMI10",
+        "type": 139,
+        "encoding": "Type1",
+        "pages_used": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "is_embedded": true
+      },
+      "PTGNGY+CMMI5": {
+        "name": "PTGNGY+CMMI5",
+        "type": 192,
+        "encoding": "Type1",
+        "pages_used": [
+          3,
+          4
+        ],
+        "is_embedded": true
+      },
+      "NSOWGJ+CMSY10": {
+        "name": "NSOWGJ+CMSY10",
+        "type": 190,
+        "encoding": "Type1",
+        "pages_used": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "is_embedded": true
+      },
+      "MPGIAD+CMR9": {
+        "name": "MPGIAD+CMR9",
+        "type": 195,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "PSRWRR+CMR6": {
+        "name": "PSRWRR+CMR6",
+        "type": 199,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "GBMMEG+CMMI9": {
+        "name": "GBMMEG+CMMI9",
+        "type": 194,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "FTRPJQ+CMMI6": {
+        "name": "FTRPJQ+CMMI6",
+        "type": 198,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "IBQGYA+CMSY9": {
+        "name": "IBQGYA+CMSY9",
+        "type": 196,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "THPNLT+CMEX9": {
+        "name": "THPNLT+CMEX9",
+        "type": 197,
+        "encoding": "Type1",
+        "pages_used": [
+          3
+        ],
+        "is_embedded": true
+      },
+      "QDTWCG+MSBM10": {
+        "name": "QDTWCG+MSBM10",
+        "type": 214,
+        "encoding": "Type1",
+        "pages_used": [
+          4,
+          5
+        ],
+        "is_embedded": true
+      },
+      "TVSTGS+CMBX7": {
+        "name": "TVSTGS+CMBX7",
+        "type": 268,
+        "encoding": "Type1",
+        "pages_used": [
+          7
+        ],
+        "is_embedded": true
+      },
+      "QOAGMD+CMMIB10": {
+        "name": "QOAGMD+CMMIB10",
+        "type": 266,
+        "encoding": "Type1",
+        "pages_used": [
+          7
+        ],
+        "is_embedded": true
+      },
+      "ASJIQB+CMBSY10": {
+        "name": "ASJIQB+CMBSY10",
+        "type": 267,
+        "encoding": "Type1",
+        "pages_used": [
+          7
+        ],
+        "is_embedded": true
+      },
+      "IDYHCE+NimbusRomNo9L-ReguItal": {
+        "name": "IDYHCE+NimbusRomNo9L-ReguItal",
+        "type": 314,
+        "encoding": "Type1",
+        "pages_used": [
+          9,
+          10,
+          11
+        ],
+        "is_embedded": true
+      },
+      "SKOJEB+Arial-BoldMT": {
+        "name": "SKOJEB+Arial-BoldMT",
+        "type": 398,
+        "encoding": "TrueType",
+        "pages_used": [
+          12
+        ],
+        "is_embedded": true
+      },
+      "SKOJEB+ArialMT": {
+        "name": "SKOJEB+ArialMT",
+        "type": 399,
+        "encoding": "TrueType",
+        "pages_used": [
+          12
+        ],
+        "is_embedded": true
+      },
+      "RZEDQD+Arial-BoldMT": {
+        "name": "RZEDQD+Arial-BoldMT",
+        "type": 1725,
+        "encoding": "TrueType",
+        "pages_used": [
+          13
+        ],
+        "is_embedded": true
+      },
+      "RZEDQD+ArialMT": {
+        "name": "RZEDQD+ArialMT",
+        "type": 1726,
+        "encoding": "TrueType",
+        "pages_used": [
+          13
+        ],
+        "is_embedded": true
+      },
+      "IYXBUV+Arial-BoldMT": {
+        "name": "IYXBUV+Arial-BoldMT",
+        "type": 2807,
+        "encoding": "TrueType",
+        "pages_used": [
+          13
+        ],
+        "is_embedded": true
+      },
+      "IYXBUV+ArialMT": {
+        "name": "IYXBUV+ArialMT",
+        "type": 2808,
+        "encoding": "TrueType",
+        "pages_used": [
+          13
+        ],
+        "is_embedded": true
+      },
+      "FZOJEB+Arial-BoldMT": {
+        "name": "FZOJEB+Arial-BoldMT",
+        "type": 3884,
+        "encoding": "TrueType",
+        "pages_used": [
+          14
+        ],
+        "is_embedded": true
+      },
+      "FZOJEB+ArialMT": {
+        "name": "FZOJEB+ArialMT",
+        "type": 3885,
+        "encoding": "TrueType",
+        "pages_used": [
+          14
+        ],
+        "is_embedded": true
+      },
+      "TWYPSZ+Arial-BoldMT": {
+        "name": "TWYPSZ+Arial-BoldMT",
+        "type": 4930,
+        "encoding": "TrueType",
+        "pages_used": [
+          14
+        ],
+        "is_embedded": true
+      },
+      "TWYPSZ+ArialMT": {
+        "name": "TWYPSZ+ArialMT",
+        "type": 4931,
+        "encoding": "TrueType",
+        "pages_used": [
+          14
+        ],
+        "is_embedded": true
+      }
+    },
+    "images": {
+      "total_count": 3,
+      "by_page": {
+        "2": 1,
+        "3": 2
+      },
+      "formats": [
+        "DeviceRGB"
+      ]
+    },
+    "form_fields": {
+      "has_forms": false,
+      "field_count": 0,
+      "field_types": [],
+      "fields": []
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": true,
+        "blocks": true,
+        "dict": true
+      },
+      "total_characters": 8941,
+      "has_searchable_text": true,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "TEXT_REPLACEMENT_WITH_EMBEDDING"
+  },
+  "translated": {
+    "filename": "academic.en.attention.vi.google.pdf",
+    "metadata": {
+      "producer": "",
+      "creator": "PDFium",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creationDate": "D:20250817054213",
+      "modDate": ""
+    },
+    "document_info": {
+      "page_count": 15,
+      "is_encrypted": false,
+      "is_form_pdf": false,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 781240
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 51,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 16.155443858255335,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 47,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 26.859794231888884,
+        "is_scanned": false
+      },
+      {
+        "page_number": 2,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 24,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 13.86369110204595,
+        "is_scanned": false
+      },
+      {
+        "page_number": 3,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 37,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 14.92059752793367,
+        "is_scanned": false
+      },
+      {
+        "page_number": 4,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 53,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 17.737613653929742,
+        "is_scanned": false
+      },
+      {
+        "page_number": 5,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 71,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 22.96380603759383,
+        "is_scanned": false
+      },
+      {
+        "page_number": 6,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 47,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 20.653082603379698,
+        "is_scanned": false
+      },
+      {
+        "page_number": 7,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 74,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 19.647740199038896,
+        "is_scanned": false
+      },
+      {
+        "page_number": 8,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 109,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 18.189412302989748,
+        "is_scanned": false
+      },
+      {
+        "page_number": 9,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 70,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 18.19255059925114,
+        "is_scanned": false
+      },
+      {
+        "page_number": 10,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 42,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 19.436175031384746,
+        "is_scanned": false
+      },
+      {
+        "page_number": 11,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 41,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 21.089491273536918,
+        "is_scanned": false
+      },
+      {
+        "page_number": 12,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 58,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 4.228169954291514,
+        "is_scanned": false
+      },
+      {
+        "page_number": 13,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 105,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 5.135353890334335,
+        "is_scanned": false
+      },
+      {
+        "page_number": 14,
+        "width": 612.0,
+        "height": 792.0,
+        "rotation": 0,
+        "text_blocks": 103,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 4.930830643247572,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {
+      "NotoSansMono-Regular": {
+        "name": "NotoSansMono-Regular",
+        "type": 4,
+        "encoding": "Type0",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "is_embedded": false
+      },
+      "Helvetica": {
+        "name": "Helvetica",
+        "type": 14,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "is_embedded": false
+      }
+    },
+    "images": {
+      "total_count": 15,
+      "by_page": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1
+      },
+      "formats": [
+        "DeviceRGB"
+      ]
+    },
+    "form_fields": {
+      "has_forms": false,
+      "field_count": 0,
+      "field_types": [],
+      "fields": []
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": true,
+        "blocks": true,
+        "dict": true
+      },
+      "total_characters": 11052,
+      "has_searchable_text": true,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "IMAGE_WITH_OCR_OVERLAY"
+  },
+  "differences": {
+    "page_count_changed": false,
+    "file_size_ratio": 0.35266544001473427,
+    "text_preserved": true,
+    "fonts_changed": true,
+    "rendering_approach_changed": true,
+    "producer_software": ""
+  }
+}

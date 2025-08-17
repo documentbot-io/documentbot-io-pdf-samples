@@ -1,0 +1,177 @@
+{
+  "original": {
+    "filename": "restaurant.en.naru-menu.pdf",
+    "metadata": {
+      "producer": "Adobe PDF library 17.00",
+      "creator": "Adobe Illustrator 28.0 (Macintosh)",
+      "title": "NA_Menu_Small",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creationDate": "D:20231214002852+05'30'",
+      "modDate": "D:20231214002904+05'30'"
+    },
+    "document_info": {
+      "page_count": 2,
+      "is_encrypted": false,
+      "is_form_pdf": false,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 10383935
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 1190.550048828125,
+        "height": 631.2130126953125,
+        "rotation": 0,
+        "text_blocks": 0,
+        "drawing_commands": 2815,
+        "has_images": true,
+        "text_coverage": 0.0,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 1190.550048828125,
+        "height": 631.2130126953125,
+        "rotation": 0,
+        "text_blocks": 0,
+        "drawing_commands": 2035,
+        "has_images": false,
+        "text_coverage": 0.0,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {},
+    "images": {
+      "total_count": 2,
+      "by_page": {
+        "0": 2
+      },
+      "formats": [
+        "DeviceCMYK"
+      ]
+    },
+    "form_fields": {
+      "has_forms": false,
+      "field_count": 0,
+      "field_types": [],
+      "fields": []
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": false,
+        "blocks": false,
+        "dict": false
+      },
+      "total_characters": 0,
+      "has_searchable_text": false,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "UNKNOWN"
+  },
+  "translated": {
+    "filename": "restaurant.en.naru-menu.es.pdfguru.pdf",
+    "metadata": {
+      "producer": "Adobe PDF library 17.00",
+      "creator": "Adobe Illustrator 28.0 (Macintosh)",
+      "title": "NA_Menu_Small",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creationDate": "D:20231214002852+05'30'",
+      "modDate": "D:20231214002904+05'30'"
+    },
+    "document_info": {
+      "page_count": 2,
+      "is_encrypted": false,
+      "is_form_pdf": false,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 18013245
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 1190.550048828125,
+        "height": 631.2130126953125,
+        "rotation": 0,
+        "text_blocks": 0,
+        "drawing_commands": 2815,
+        "has_images": true,
+        "text_coverage": 0.0,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 1190.550048828125,
+        "height": 631.2130126953125,
+        "rotation": 0,
+        "text_blocks": 0,
+        "drawing_commands": 2035,
+        "has_images": false,
+        "text_coverage": 0.0,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {
+      "Times-Roman": {
+        "name": "Times-Roman",
+        "type": 121,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1
+        ],
+        "is_embedded": false
+      },
+      "Go Noto Kurrent-Regular Regular": {
+        "name": "Go Noto Kurrent-Regular Regular",
+        "type": 122,
+        "encoding": "Type0",
+        "pages_used": [
+          0,
+          1
+        ],
+        "is_embedded": false
+      }
+    },
+    "images": {
+      "total_count": 2,
+      "by_page": {
+        "0": 2
+      },
+      "formats": [
+        "DeviceCMYK"
+      ]
+    },
+    "form_fields": {
+      "has_forms": false,
+      "field_count": 0,
+      "field_types": [],
+      "fields": []
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": false,
+        "blocks": false,
+        "dict": false
+      },
+      "total_characters": 0,
+      "has_searchable_text": false,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "UNKNOWN"
+  },
+  "differences": {
+    "page_count_changed": false,
+    "file_size_ratio": 1.734722434221709,
+    "text_preserved": false,
+    "fonts_changed": true,
+    "rendering_approach_changed": false,
+    "producer_software": "Adobe PDF library 17.00"
+  }
+}

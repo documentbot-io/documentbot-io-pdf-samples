@@ -1,0 +1,487 @@
+{
+  "original": {
+    "filename": "forms.en.irs-w9.pdf",
+    "metadata": {
+      "producer": "Designer 6.5",
+      "creator": "Designer 6.5",
+      "title": "Form W-9 (Rev. March 2024)",
+      "author": "SE:W:CAR:MP",
+      "subject": "Request for Taxpayer Identification Number and Certification",
+      "keywords": "Fillable",
+      "creationDate": "D:20240306081813-05'00'",
+      "modDate": "D:20240306081813-05'00'"
+    },
+    "document_info": {
+      "page_count": 6,
+      "is_encrypted": false,
+      "is_form_pdf": 1,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 140815
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 39,
+        "drawing_commands": 71,
+        "has_images": false,
+        "text_coverage": 52.70773850589416,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 22,
+        "drawing_commands": 2,
+        "has_images": false,
+        "text_coverage": 72.24033718922065,
+        "is_scanned": false
+      },
+      {
+        "page_number": 2,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 30,
+        "drawing_commands": 34,
+        "has_images": false,
+        "text_coverage": 66.14957392671651,
+        "is_scanned": false
+      },
+      {
+        "page_number": 3,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 31,
+        "drawing_commands": 22,
+        "has_images": false,
+        "text_coverage": 68.80955869234462,
+        "is_scanned": false
+      },
+      {
+        "page_number": 4,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 50,
+        "drawing_commands": 31,
+        "has_images": false,
+        "text_coverage": 48.189688952607476,
+        "is_scanned": false
+      },
+      {
+        "page_number": 5,
+        "width": 611.9760131835938,
+        "height": 791.968017578125,
+        "rotation": 0,
+        "text_blocks": 7,
+        "drawing_commands": 2,
+        "has_images": false,
+        "text_coverage": 24.46395076302644,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {
+      "OKAJSW+HelveticaNeueLTStd-Roman": {
+        "name": "OKAJSW+HelveticaNeueLTStd-Roman",
+        "type": 1062,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "is_embedded": true
+      },
+      "ZKUMQA+HelveticaNeueLTStd-BlkCn": {
+        "name": "ZKUMQA+HelveticaNeueLTStd-BlkCn",
+        "type": 1064,
+        "encoding": "Type1",
+        "pages_used": [
+          0
+        ],
+        "is_embedded": true
+      },
+      "MCXSQA+ITCFranklinGothicStd-Demi": {
+        "name": "MCXSQA+ITCFranklinGothicStd-Demi",
+        "type": 1066,
+        "encoding": "Type1",
+        "pages_used": [
+          0
+        ],
+        "is_embedded": true
+      },
+      "MBEHQA+HelveticaNeueLTStd-Bd": {
+        "name": "MBEHQA+HelveticaNeueLTStd-Bd",
+        "type": 1068,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "is_embedded": true
+      },
+      "PVUZGU+HelveticaNeueLTStd-BdIt": {
+        "name": "PVUZGU+HelveticaNeueLTStd-BdIt",
+        "type": 1070,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1
+        ],
+        "is_embedded": true
+      },
+      "FEOMWO+HelveticaNeueLTStd-It": {
+        "name": "FEOMWO+HelveticaNeueLTStd-It",
+        "type": 1072,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "is_embedded": true
+      }
+    },
+    "images": {
+      "total_count": 0,
+      "by_page": {},
+      "formats": []
+    },
+    "form_fields": {
+      "has_forms": 1,
+      "field_count": 23,
+      "field_types": [
+        7,
+        2
+      ],
+      "fields": [
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_01[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_02[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[0]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[1]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[2]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[3]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[4]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[5]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].f1_03[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_1[6]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].f1_04[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Boxes3a-b_ReadOrder[0].c1_2[0]",
+          "field_type": 2,
+          "field_value": "Off",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_05[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_06[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_07[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].Address_ReadOrder[0].f1_08[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_09[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_10[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_11[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_12[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_13[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_14[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        },
+        {
+          "field_name": "topmostSubform[0].Page1[0].f1_15[0]",
+          "field_type": 7,
+          "field_value": "",
+          "page": 0
+        }
+      ]
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": true,
+        "blocks": true,
+        "dict": true
+      },
+      "total_characters": 21754,
+      "has_searchable_text": true,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "TEXT_REPLACEMENT_WITH_EMBEDDING"
+  },
+  "translated": {
+    "filename": "forms.en.irs-w9.vi.google.pdf",
+    "metadata": {
+      "producer": "",
+      "creator": "PDFium",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creationDate": "D:20250817054437",
+      "modDate": ""
+    },
+    "document_info": {
+      "page_count": 6,
+      "is_encrypted": false,
+      "is_form_pdf": false,
+      "is_reflowable": false,
+      "is_repaired": false,
+      "pdf_version": "unknown",
+      "file_size": 350215
+    },
+    "pages": [
+      {
+        "page_number": 0,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 106,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 25.927591781438935,
+        "is_scanned": false
+      },
+      {
+        "page_number": 1,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 124,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 30.924951686992163,
+        "is_scanned": false
+      },
+      {
+        "page_number": 2,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 130,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 30.97706306586981,
+        "is_scanned": false
+      },
+      {
+        "page_number": 3,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 130,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 28.557173789619533,
+        "is_scanned": false
+      },
+      {
+        "page_number": 4,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 127,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 23.02970684667271,
+        "is_scanned": false
+      },
+      {
+        "page_number": 5,
+        "width": 611.0,
+        "height": 791.0,
+        "rotation": 0,
+        "text_blocks": 48,
+        "drawing_commands": 0,
+        "has_images": true,
+        "text_coverage": 13.45282255350691,
+        "is_scanned": false
+      }
+    ],
+    "fonts": {
+      "NotoSansMono-Regular": {
+        "name": "NotoSansMono-Regular",
+        "type": 4,
+        "encoding": "Type0",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "is_embedded": false
+      },
+      "Helvetica": {
+        "name": "Helvetica",
+        "type": 14,
+        "encoding": "Type1",
+        "pages_used": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "is_embedded": false
+      }
+    },
+    "images": {
+      "total_count": 6,
+      "by_page": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1
+      },
+      "formats": [
+        "DeviceRGB"
+      ]
+    },
+    "form_fields": {
+      "has_forms": false,
+      "field_count": 0,
+      "field_types": [],
+      "fields": []
+    },
+    "text_extraction": {
+      "extraction_methods": {
+        "raw": true,
+        "blocks": true,
+        "dict": true
+      },
+      "total_characters": 27786,
+      "has_searchable_text": true,
+      "text_rendering_mode": null
+    },
+    "rendering_approach": "IMAGE_WITH_OCR_OVERLAY"
+  },
+  "differences": {
+    "page_count_changed": false,
+    "file_size_ratio": 2.487057486773426,
+    "text_preserved": true,
+    "fonts_changed": true,
+    "rendering_approach_changed": true,
+    "producer_software": ""
+  }
+}
