@@ -8,8 +8,8 @@ This repository contains representative PDF samples and their translated outputs
 - PDF/A and graphics overlays
 
 ## Structure
-- `originals/` — Source PDFs in a single folder with format: `<category>.<src-lang>.<filename>.pdf`
-- `translated/` — Outputs from providers under a strict naming convention
+- `originals/` — Source PDFs with format: `<category>.<src-lang>.<filename>.pdf`
+- `translated/<provider>/` — Translated outputs organized by provider
 - `pseudolocale/` — Pseudolocale "translations" generated locally to stress width/RTL without calling an API
 - `scripts/` — `fetch.py` to download originals; `make_pseudolocale.py` to overlay pseudo text via PyMuPDF
 - `docs/acceptance-checklist.md` — What to check for each category
@@ -22,38 +22,30 @@ This repository contains representative PDF samples and their translated outputs
 
 Examples:
 - `tax.en.irs-1040.pdf`
-- `academic.en.bitcoin-whitepaper.pdf`
-- `simple.en.hello-letter.pdf`
+- `academic.en.bitcoin.pdf`
+- `resume.en.engineer.pdf`
 
 ### Translated Files
-`<category>.<src-lang>.<dst-lang>.<provider>.<filename>.pdf`
+Stored in `translated/<provider>/` with format:
+`<category>.<src-lang>.<filename>.<dst-lang>.<provider>.pdf`
 
 Examples:
-- `tax.en.es.google.irs-1040.pdf`
-- `academic.en.zh-Hans.pdfguru.bitcoin-whitepaper.pdf`
-- `simple.en.ps-rtl.psgen.hello-letter.pdf`
+- `translated/google/tax.en.irs-1040.vi.google.pdf`
+- `translated/pdfguru/academic.en.bitcoin.zh-Hans.pdfguru.pdf`
+- `translated/pdfsimpli/resume.en.engineer.es.pdfsimpli.pdf`
 
 ### Categories
-- `simple` - Basic text documents
-- `ocr` - Scanned/image-heavy PDFs requiring OCR
-- `tax` - Tax forms
+- `tax` - Tax forms and government financial documents
+- `forms` - Simple government forms
+- `gov` - Government documents and applications
 - `academic` - Academic papers with equations and references
-- `resume` - CVs and resumes with complex formatting
-- `finance` - Financial statements and reports
-- `business` - Invoices and business documents
+- `finance` - Financial statements, invoices, and bank documents
 - `travel` - Travel documents and boarding passes
-- `logistics` - Shipping labels
-- `medical` - Medical guides and leaflets
-- `legal` - Legal documents
-- `forms` - Simple forms
-- `forms-complex` - Complex forms with XFA/AcroForm
-- `gov` - Government documents
-- `report` - Corporate reports with charts
-- `multilingual` - Documents with multiple languages
-- `pdfa` - PDF/A compliant documents
-- `graphics` - Graphically complex brochures
-- `rtl` - Right-to-left language documents
-- `cjk` - CJK (Chinese, Japanese, Korean) documents
+- `resume` - CVs and resumes with complex formatting
+- `ocr` - Scanned/image-heavy PDFs requiring OCR
+- `restaurant` - Restaurant menus and food service documents
+- `landscape` - Landscape-oriented corporate reports
+- `book` - Literature and book-formatted documents
 
 ### Language Codes
 Language codes use BCP-47 where helpful:
@@ -80,7 +72,7 @@ Use Noto families for maximal glyph coverage. Embed fonts to keep outputs portab
 ## Contributing
 1. Add new originals to `originals/` folder using format: `<category>.<src-lang>.<filename>.pdf`
 2. Update `samples/manifest.yaml` with metadata for new samples
-3. Commit provider outputs to `translated/` using format: `<category>.<src-lang>.<dst-lang>.<provider>.<filename>.pdf`
+3. Commit provider outputs to `translated/<provider>/` using format: `<category>.<src-lang>.<filename>.<dst-lang>.<provider>.pdf`
 4. For pseudo, run `scripts/make_pseudolocale.py` and commit to `pseudolocale/`
 
 ## Licensing
